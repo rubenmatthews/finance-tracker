@@ -86,3 +86,25 @@ python main.py
 - Export summaries to PDF or Excel.
 - Build a simple web dashboard.
 - Integrate budgeting alerts.
+
+---
+
+## 🛠️ TODO
+
+This project is still a work in progress. Here's what's planned:
+
+- [ ] Add CLI interface for user interaction
+- [ ] Load transaction data from `.csv` or `.xlsx` files
+- [ ] Categorize transactions (manually or automatically)
+- [ ] Store data locally in a structured format
+- [ ] Show monthly summary breakdowns (by category)
+- [ ] Visualize spending using basic plots (matplotlib or seaborn)
+- [ ] Export reports as PDF or CSV
+- [ ] Add unit tests
+- [ ] Create config file for user preferences
+- [ ] Improve README with usage examples
+- [ ] Add license and contributor guidelines
+
+---
+
+✅ Suggestions welcome — feel free to open an issue or fork the project!
