@@ -1,10 +1,10 @@
-Date,Amount,Category,Description, Recurring
-2024-03-01, -50.25 , Groceries , "  Whole Foods Market ", No
-03/02/2024, -1200 , Rent, March Rent Payment, Yes
-2024-03-03,  -15.70, Eating out,  "Starbux coffee ", No
-2024-03-04, , Transport, Uber Ride, No
-2024-03-05, -70.50 ,Groceries, Trader Joe's, No
-2024-03-06,-22.30, eating Out , "Mcdonalds ", No
-2024-03-08,-150, Entertainment, "Netflix Subscription", Yes
-2024/03/09, -25.00, Transport , Taxi Fare, No
-March 10 2024, -8.95, groceries , "local market ", No
+Date,Amount,Category,Description,Recurring
+2024-03-01, -50.25 , Groceries , "  Whole Foods Market ",No
+03/02/2024, -1200 , Rent, March Rent Payment,Yes
+2024-03-03,  -15.70, Eating out,  "Starbux coffee ",No
+2024-03-04, , Transport, Uber Ride,No
+2024-03-05, -70.50 ,Groceries, Trader Joe's,No
+2024-03-06,-22.30, eating Out , "Mcdonalds ",No
+2024-03-08,-150, Entertainment, "Netflix Subscription",Yes
+2024/03/09, -25.00, Transport , Taxi Fare,No
+March 10 2024, -8.95, groceries , "local market ",No
